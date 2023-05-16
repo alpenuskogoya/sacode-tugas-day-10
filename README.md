@@ -1,2 +1,2 @@
-# sacode-tugas-day-10-2023
+# sacode-tugas-day-10-anjas
 membuat CRUD sederhana dengan php mysqli
